@@ -2,7 +2,7 @@
 
 
 
-- 👨🏽‍💻 dev front-end - sempre estudando
+- 👨🏽‍💻 dev front-end
 - 👨🏽‍🎓 técnico em informática com ênfase em programação
 
 
